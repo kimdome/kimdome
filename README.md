@@ -4,7 +4,7 @@
 
 **Technology Project Manager**
 
-*Projects • Certifications • Technical Growth*
+*Projects • Technical Growth*
 
 </div>
 
