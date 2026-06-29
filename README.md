@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kim Domercant
+# Kim Domerçant
 
 **Technology Project Manager**
 
