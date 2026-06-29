@@ -10,9 +10,7 @@
 
 ## 🌿 A Little About Me
 
-Welcome!
-
-This GitHub serves as a living notebook a place to build, experiment, solve problems, and document my learning along the way.
+This GitHub serves as a living notebook—a place to build, experiment, solve problems, and document my learning along the way.
 
 Technology is always evolving, and so am I.
 
@@ -44,3 +42,19 @@ Technology is always evolving, and so am I.
 
 </tr>
 </table>
+
+## 📂 Featured Projects
+
+### 🖨️ Print Request Automation
+
+**Google Forms • Google Sheets • Google Apps Script**
+
+Designed and automated a print request workflow using Google Forms, Google Sheets, and Apps Script to streamline request submissions, track incoming requests, and automate notifications.
+
+**Current Status:** 🟢 Active
+
+---
+
+### 📁 More Projects
+
+Additional projects will be added as new ideas are explored and completed.
