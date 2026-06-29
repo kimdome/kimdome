@@ -12,7 +12,7 @@
 
 Welcome!
 
-This GitHub serves as a living notebook—a place to build, experiment, solve problems, and document my learning along the way.
+This GitHub serves as a living notebook a place to build, experiment, solve problems, and document my learning along the way.
 
 Technology is always evolving, and so am I.
 
