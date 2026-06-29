@@ -82,7 +82,7 @@ Technology is always evolving, and so am I.
 
 **Google Forms • Google Sheets • Google Apps Script**
 
-Designed and automated a print request workflow using Google Forms, Google Sheets, and Apps Script to streamline request submissions, track incoming requests, and automate notifications.
+Designed and automated a print request project using Google Forms, Google Sheets, and Apps Script to streamline request submissions, track incoming requests, and automate notifications.
 
 **Status:** 🟢 Active
 
