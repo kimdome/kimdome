@@ -1,7 +1,12 @@
+<div align="center">
+
 # Kim Domercant
 
----
+**Technology Project Manager**
 
+*Projects • Certifications • Technical Growth*
+
+</div>
 ## 🏅 Certifications
 
 <table align="center">
