@@ -1,44 +1,55 @@
 <div align="center">
 
-# Kim Domerçant
+# Hi there, I'm Kim! 👋
 
-### Technology Project Manager
+<!-- Bitmoji Here -->
 
-*Projects • Technical Growth*
+### Technical Project Manager
 
-<br>
+Building thoughtful software that solves real problems while continuously growing as a developer.
 
-[🌐 Portfolio](#) • [💼 LinkedIn](#) • [📧 Email](#)
+📍 Boston, MA
+
+<!-- Optional Quick Facts -->
+💼 Open to Opportunities • ☁️ Currently Learning (insert) • 🌱 Lifelong Learner
 
 </div>
 
+# 🌱 About Me
+
+Right now I'm focused on...
+
+The technologies I'm most interested in are...
+
+Long-term, I hope to...
 ---
+
+## 🌐 Connect With Me
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/PROJECTS-BUILDING-57B8B2?style=for-the-badge&labelColor=374151"/>
-
-<img src="https://img.shields.io/badge/TECHNOLOGY-EXPLORING-4EA8DE?style=for-the-badge&labelColor=374151"/>
-
-<img src="https://img.shields.io/badge/SOLUTIONS-DESIGNING-8CC7A2?style=for-the-badge&labelColor=374151"/>
-
-<img src="https://img.shields.io/badge/COLLABORATION-ALWAYS-7C8CF8?style=for-the-badge&labelColor=374151"/>
+[![LinkedIn](#)](#)
+[![Resume](#)](#)
+[![Credly](#)](#)
+[![Email](#)](#)
 
 </p>
 
 ---
 
-# 🌿 About
+## 💻 Tech Stack
 
-This GitHub serves as a living notebook—a place to build, experiment, solve problems, and document my learning along the way.
+### Languages
 
-Technology is always evolving, and so am I.
+<!-- Icons -->
 
----
+### Cloud
 
-# 🏅 Certifications
+<!-- Icons -->
 
-(your existing certification table)
+### Tools
+
+<!-- Icons -->
 
 ---
 
@@ -47,35 +58,106 @@ Technology is always evolving, and so am I.
 <table>
 <tr>
 
-<td width="55%">
+<td width="50%">
 
-## Print Request Automation
+### Project Name
 
-**Google Forms • Google Sheets • Apps Script**
+Short project description.
 
-Designed and automated a print request workflow using Google Forms, Google Sheets, and Apps Script to streamline submissions, track requests, and automate notifications.
+**Tech**
+- React
+- TypeScript
+- Firebase
 
-🟢 **Status:** Active
+🔗 Live Demo Link
+
+📂 Repository
 
 </td>
 
-<td width="45%">
+<td width="50%">
 
-Project Screenshot
+### Project Name
+
+Short project description.
+
+**Tech**
+- Python
+- Flask
+- PostgreSQL
+
+🔗 Live Demo Link
+
+📂 Repository
 
 </td>
 
 </tr>
+
+<tr>
+
+<td width="50%">
+
+### Project Name
+
+Short project description.
+
+**Tech**
+- Next.js
+- Tailwind
+- Supabase
+
+🔗 Live Demo Link
+
+📂 Repository
+
+</td>
+
+<td width="50%">
+
+## ➜ More Projects
+
+Explore additional repositories and experiments.
+
+📂 View GitHub Repositories
+
+</td>
+
+</tr>
+
 </table>
 
 ---
 
-# 🚧 Coming Soon
+---
 
-Additional projects will be added as new ideas are explored, built, and documented.
+# 🎯 Current Focus
+
+- 🔨 Building...
+- 📚 Learning...
+- ☁️ Exploring...
+- 🚀 Improving...
+- 🎯 Working Toward...
 
 ---
 
-# 🤝 Connect
+# 🌸 Fun Facts
 
-LinkedIn • Email
+- 🎮 ...
+- ☕ ...
+- 📚 ...
+- ✈️ ...
+- 🐶 ...
+- 🎵 ...
+
+---
+
+# 🤝 Interested in Working Together?
+
+I'm always excited to connect with other leaders, collaborate on meaningful projects, and explore new opportunities.
+
+📄 Resume
+
+💼 LinkedIn
+
+📧 Email
