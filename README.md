@@ -44,12 +44,6 @@ Technology is always evolving, and so am I.
 
 # 🚀 Featured Projects
 
-Instead of this
-
-### Print Request Automation
-
-make it a card.
-
 <table>
 <tr>
 
@@ -84,4 +78,4 @@ Additional projects will be added as new ideas are explored, built, and document
 
 # 🤝 Connect
 
-Portfolio • LinkedIn • Email
+LinkedIn • Email
