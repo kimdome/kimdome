@@ -2,15 +2,33 @@
 
 # Kim Domerçant
 
-**Technology Project Manager**
+### Technology Project Manager
 
 *Projects • Technical Growth*
+
+<br>
+
+[🌐 Portfolio](#) • [💼 LinkedIn](#) • [📧 Email](#)
 
 </div>
 
 ---
 
-## 🌿 A Little About Me
+<p align="center">
+
+<img src="https://img.shields.io/badge/PROJECTS-BUILDING-57B8B2?style=for-the-badge&labelColor=374151"/>
+
+<img src="https://img.shields.io/badge/TECHNOLOGY-EXPLORING-4EA8DE?style=for-the-badge&labelColor=374151"/>
+
+<img src="https://img.shields.io/badge/SOLUTIONS-DESIGNING-8CC7A2?style=for-the-badge&labelColor=374151"/>
+
+<img src="https://img.shields.io/badge/COLLABORATION-ALWAYS-7C8CF8?style=for-the-badge&labelColor=374151"/>
+
+</p>
+
+---
+
+# 🌿 About
 
 This GitHub serves as a living notebook—a place to build, experiment, solve problems, and document my learning along the way.
 
@@ -18,56 +36,38 @@ Technology is always evolving, and so am I.
 
 ---
 
-## 🏅 Certifications
+# 🏅 Certifications
 
-<table align="center">
+(your existing certification table)
+
+---
+
+# 🚀 Featured Projects
+
+Instead of this
+
+### Print Request Automation
+
+make it a card.
+
+<table>
 <tr>
 
-<td align="center" width="220">
+<td width="55%">
 
-<a href="https://www.credly.com/badges/4a7cb8a0-461d-4d3f-89e9-f45e5629ed2a/email" target="_blank">
-<img src="assets/CompTIA A+.png" alt="CompTIA A+" width="125">
-</a>
+## Print Request Automation
 
-<br>
+**Google Forms • Google Sheets • Apps Script**
 
-<strong>CompTIA A+</strong>
+Designed and automated a print request workflow using Google Forms, Google Sheets, and Apps Script to streamline submissions, track requests, and automate notifications.
 
-<br>
-
-<sub>IT Support & Troubleshooting</sub>
+🟢 **Status:** Active
 
 </td>
 
-<td align="center" width="220">
+<td width="45%">
 
-<a href="https://www.credly.com/badges/ff61e9da-17e5-49e0-802f-ff29533b9a25/email" target="_blank">
-<img src="assets/CompTIA Network +.png" alt="CompTIA Network+" width="125">
-</a>
-
-<br>
-
-<strong>CompTIA Network+</strong>
-
-<br>
-
-<sub>Networking Fundamentals</sub>
-
-</td>
-
-<td align="center" width="220">
-
-<a href="https://www.credly.com/badges/6c47c3d6-d93d-4064-9fce-968188780788/email" target="_blank">
-<img src="assets/CompTIA CIOS.png" alt="CompTIA IT Operations Specialist (CIOS)" width="125">
-</a>
-
-<br>
-
-<strong>CompTIA CIOS</strong>
-
-<br>
-
-<sub>IT Operations Specialist</sub>
+Project Screenshot
 
 </td>
 
@@ -76,18 +76,12 @@ Technology is always evolving, and so am I.
 
 ---
 
-## 📂 Featured Projects
+# 🚧 Coming Soon
 
-### Print Request Automation
-
-**Google Forms • Google Sheets • Google Apps Script**
-
-Designed and automated a print request project using Google Forms, Google Sheets, and Apps Script to streamline request submissions, track incoming requests, and automate notifications.
-
-**Status:** 🟢 Active
+Additional projects will be added as new ideas are explored, built, and documented.
 
 ---
 
-### More Projects
+# 🤝 Connect
 
-Additional projects will be added as new ideas are explored, built, and documented.
+Portfolio • LinkedIn • Email
